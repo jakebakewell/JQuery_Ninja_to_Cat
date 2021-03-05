@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#container{
+    width: 181px;
+    margin: 4em auto;
+}
+#container img{
+    margin-top: -3.4px;
+}
